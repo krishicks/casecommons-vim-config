@@ -129,9 +129,6 @@
 [submodule "bundle/vim-cucumber-align-pipes"]
 	path = bundle/vim-cucumber-align-pipes
 	url = git://github.com/quentindecock/vim-cucumber-align-pipes.git
-[submodule "bundle/j-split"]
-	path = bundle/j-split
-	url = git://github.com/mgamba/j-split.git
 [submodule "bundle/vim-slim"]
 	path = bundle/vim-slim
 	url = git://github.com/slim-template/vim-slim.git
