@@ -96,9 +96,6 @@
 [submodule "bundle/tabular"]
 	path = bundle/tabular
 	url = https://github.com/godlygeek/tabular
-[submodule "bundle/cucumbertables/ftplugin"]
-	path = bundle/cucumbertables/ftplugin
-	url = https://gist.github.com/1486660.git
 [submodule "bundle/vim-colors-candycode"]
 	path = bundle/vim-colors-candycode
 	url = https://github.com/vim-scripts/candycode.vim.git
