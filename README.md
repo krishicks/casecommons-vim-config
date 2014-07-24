@@ -1,3 +1,5 @@
+Testing Dreddbot
+
 # To Install
 
 (Re)move ~/.vim and ~/.vimrc if you have them already, and run:
